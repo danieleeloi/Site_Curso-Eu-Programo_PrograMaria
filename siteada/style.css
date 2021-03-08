@@ -75,13 +75,17 @@ section{
     color: #FFFFFF;
     text-decoration: underline;
     font-weight: normal;
-} 
+    } 
 
 .principal li {
     display: inline-block;
     line-height: 2.5;
     margin: 0 89px;
 }
+
+ a.highlight:hover{
+    color:red;
+ }
 
 button{
     background-color: #41f341;
